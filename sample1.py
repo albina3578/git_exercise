@@ -8,3 +8,4 @@ print("New changes after last push, fixed PROJ-23455")
 
 
 print("This line is for PROJ-23455 test failed")
+print("changed from login branch")
